@@ -1,0 +1,15 @@
+body{
+font-family: 'Dosis', sans-serif;
+}
+
+h1, p, li{
+  text-align: center;
+}
+
+li{
+  list-style-type: none;
+}
+
+button{
+  margin-left: 29%;
+}
